@@ -1,0 +1,172 @@
+.container-fluid
+{
+    padding: 0px;
+   
+
+}
+.navbar{
+    padding-right: 5%;
+}
+.btn{
+    background-color: #D64933;
+}
+label{
+    width: 240px;
+    display: inline-block;
+}
+.mainBody{
+    padding-top: 2%;
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-bottom: 4%;
+    background-color: #D64933;
+}
+.auctionlogo{
+    margin-top: 6%;
+    margin-left: 25%;
+    height: 250px;
+    width: 250px;
+}
+.innerBody{
+    
+    margin-top: 2%;
+    padding-left: 80px;
+   
+}
+.innerBody-text{
+    font-family: 'Aleo', serif;
+    font-size: 30px;
+    color: white;
+}
+#features{
+    padding:  7% 15%;
+    text-align: center;
+    background-color: #ffff;
+    position: relative;
+}
+.feature-box {
+    padding: 4.5%;
+  }
+#features h3{
+    font-family: 'Aleo', serif;
+    font-weight: bolder;
+    font-size: 2 rem;
+}
+#features p{
+    color: #110503;
+}
+.icon{
+    color: #E17666;
+    margin-bottom: 1rem;
+    
+    
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+#footer{
+    text-align: center;
+    color: white;
+    padding: 3% 15%;
+
+}
+/* display_item css */
+
+.logout{
+  
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: #ffff; /* Green */
+    border: none;
+    color: #D64933;
+    padding: 5px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    font-family: 'Aleo', serif;
+    font-size: 25px;
+}
+.button
+{
+
+   font:bold 11px Arial;
+   text-decoration:none;
+   text-align:center;
+   background-color:#EEEEEE;
+   color:#333333;
+   padding:2%;
+   border-top:1px solid #CCCCCC;
+   border-right:1px solid#333333;
+   border-bottom:1px solid#333333;
+   border-left:1px solid #CCCCCC;
+}
+.item{
+border:1px solid gray;
+display:inline-block;
+margin:5px;
+width:200px;
+margin: 3% 0% 3% 5%;
+}
+
+.item_row
+{
+   border-top:1px solid gray;
+   width:100%;
+   text-align: center;
+}
+.item_img
+{
+   height:150px;
+   width:150px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.add_buyer{
+    margin-left: auto;
+    margin-right: auto;
+}
+.loginPage{
+    margin: 20px 5px 20px 5px;
+    text-align: center;
+    background-color: #D64933;
+    padding: 10% 20%;
+}
+.loginPage .text{
+    color: white;
+    font-family: 'Aleo', serif;
+    font-size: 33px;
+
+}
+.loginPage .text-p{
+    font-size: 27px;
+    color: white;
+
+}
+#exit_title{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    margin-top: 12%;
+    font-size: 50px;
+    
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.deleteUser{
+
+    background-color: #D64933;
+     color: #ffff; 
+     text-align:center;
+      padding: 12% 0% 15% 0%;
+       font-size: 25px;
+       font-family: 'Aleo', serif;
+
+}
